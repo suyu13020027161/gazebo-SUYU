@@ -1,0 +1,41 @@
+Gazebo multi-robot simulator, version 9.0.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1609831210 76445974) [Msg] Waiting for master.
+(1609831210 82150976) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1609831210 82188514) [Msg] Publicized address: 172.16.4.111
+(1609831210 82421439) Loaded .ini file from: "/home/suyu/.gazebo/gui.ini"
+(1609831211 325387401) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/suyu/.gazebo/models/turtlebot3_autorace"
+(1609831211 326041037) model.config file is missing in directory["/home/suyu/.gazebo/models/turtlebot3_autorace"]
+(1609831211 329899467) Invalid filename or directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/.git"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1609831211 329990759) Invalid filename or directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/.gitignore"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1609831211 330094752) Invalid filename or directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/.gitmodules"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1609831211 330195286) Invalid filename or directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/.travis.yml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1609831211 330300446) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/suyu/src/Firmware/Tools/sitl_gazebo/Build"
+(1609831211 330921621) model.config file is missing in directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/Build"]
+(1609831211 331088970) Invalid filename or directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/CMakeLists.txt"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1609831211 331282835) Invalid filename or directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/README.md"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1609831211 331431177) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/suyu/src/Firmware/Tools/sitl_gazebo/cmake"
+(1609831211 332180368) model.config file is missing in directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/cmake"]
+(1609831211 332268776) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/suyu/src/Firmware/Tools/sitl_gazebo/external"
+(1609831211 332980030) model.config file is missing in directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/external"]
+(1609831211 333090348) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/suyu/src/Firmware/Tools/sitl_gazebo/include"
+(1609831211 333820685) model.config file is missing in directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/include"]
+(1609831211 333908356) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/suyu/src/Firmware/Tools/sitl_gazebo/models"
+(1609831211 334667138) model.config file is missing in directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/models"]
+(1609831211 334756107) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/suyu/src/Firmware/Tools/sitl_gazebo/msgs"
+(1609831211 335455202) model.config file is missing in directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/msgs"]
+(1609831211 335553735) Invalid filename or directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/package.xml"] in GAZEBO_MODEL_PATH. It's not a good idea to put extra files in a GAZEBO_MODEL_PATH because the file structure may be modified by Gazebo.
+(1609831211 335654519) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/suyu/src/Firmware/Tools/sitl_gazebo/scripts"
+(1609831211 336304376) model.config file is missing in directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/scripts"]
+(1609831211 336404243) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/suyu/src/Firmware/Tools/sitl_gazebo/src"
+(1609831211 337082873) model.config file is missing in directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/src"]
+(1609831211 337168094) [Err] [InsertModelWidget.cc:405] Missing model.config for model "/home/suyu/src/Firmware/Tools/sitl_gazebo/worlds"
+(1609831211 337773361) model.config file is missing in directory["/home/suyu/src/Firmware/Tools/sitl_gazebo/worlds"]
+(1609831211 343476662) [Wrn] [ModelDatabase.cc:212] Unable to connect to model database using [http://gazebosim.org/models//database.config]. Only locally installed models will be available.
+(1609831212 50152909) No spacenav daemon found. Spacenav functionality is disabled
+(1609831212 272252064) [Wrn] [ColladaLoader.cc:1805] Triangle input semantic: 'TEXCOORD' is currently not supported
+(1609831212 330822404) [Wrn] [ColladaLoader.cc:1805] Triangle input semantic: 'TEXCOORD' is currently not supported

@@ -1,0 +1,35 @@
+Gazebo multi-robot simulator, version 9.0.0
+Copyright (C) 2012 Open Source Robotics Foundation.
+Released under the Apache 2 License.
+http://gazebosim.org
+
+
+(1609831210 62750226) [Msg] Waiting for master.
+(1609831210 71995588) [Msg] Connected to gazebo master @ http://127.0.0.1:11345
+(1609831210 72053746) [Msg] Publicized address: 172.16.4.111
+(1609831211 210821056) [Wrn] [msgs.cc:1852] Conversion of sensor type[multicamera] not supported.
+(1609831211 255538198) [Wrn] [ColladaLoader.cc:1805] Triangle input semantic: 'TEXCOORD' is currently not supported
+(1609831211 271309049) [Wrn] [ColladaLoader.cc:1805] Triangle input semantic: 'TEXCOORD' is currently not supported
+(1609831211 325068438) Init world[default]
+(1609831211 693507126) applying Gaussian noise model with mean 0, stddev 0, bias -0
+(1609831211 694850285) applying Gaussian noise model with mean 0, stddev 0, bias -0
+(1609831211 811993294) [Dbg] [gazebo_mavlink_interface.cpp:138] <joint_name> not found for channel[0] no joint control will be performed for this channel.
+(1609831211 812266049) [Dbg] [gazebo_mavlink_interface.cpp:138] <joint_name> not found for channel[1] no joint control will be performed for this channel.
+(1609831211 812312995) [Dbg] [gazebo_mavlink_interface.cpp:138] <joint_name> not found for channel[2] no joint control will be performed for this channel.
+(1609831211 812390658) [Dbg] [gazebo_mavlink_interface.cpp:138] <joint_name> not found for channel[3] no joint control will be performed for this channel.
+(1609831211 812490907) [Wrn] [gazebo_mavlink_interface.cpp:127] joint [zephyr_delta_wing::propeller_joint] not found for channel[4] no joint control for this channel.
+(1609831211 812637623) [Wrn] [gazebo_mavlink_interface.cpp:127] joint [zephyr_delta_wing::flap_left_joint] not found for channel[5] no joint control for this channel.
+(1609831211 812812860) [Wrn] [gazebo_mavlink_interface.cpp:127] joint [zephyr_delta_wing::flap_right_joint] not found for channel[6] no joint control for this channel.
+(1609831211 812959637) [Dbg] [gazebo_mavlink_interface.cpp:138] <joint_name> not found for channel[7] no joint control will be performed for this channel.
+(1609831211 816812920) [Msg] Using MAVLink protocol v2.0
+(1609831211 830219346) [Wrn] [msgs.cc:1852] Conversion of sensor type[multicamera] not supported.
+(1609831211 831441986) [Wrn] [msgs.cc:1852] Conversion of sensor type[multicamera] not supported.
+(1609831211 832715617) [Wrn] [msgs.cc:1852] Conversion of sensor type[multicamera] not supported.
+(1609831211 835492343) [Wrn] [Publisher.cc:141] Queue limit reached for topic /gazebo/default/iris_stereo_gray_gps/motors, deleting message. This warning is printed only once.
+(1609831212 235560754) [Wrn] [msgs.cc:1852] Conversion of sensor type[multicamera] not supported.
+(1609831218 252948245) [Wrn] [Publisher.cc:141] Queue limit reached for topic /gazebo/default/iris_stereo_gray_gps/motor_speed/0, deleting message. This warning is printed only once.
+(1609831218 253107800) [Wrn] [Publisher.cc:141] Queue limit reached for topic /gazebo/default/iris_stereo_gray_gps/motor_speed/1, deleting message. This warning is printed only once.
+(1609831218 253240514) [Wrn] [Publisher.cc:141] Queue limit reached for topic /gazebo/default/iris_stereo_gray_gps/motor_speed/2, deleting message. This warning is printed only once.
+(1609831218 253405343) [Wrn] [Publisher.cc:141] Queue limit reached for topic /gazebo/default/iris_stereo_gray_gps/motor_speed/3, deleting message. This warning is printed only once.
+(1609831218 253637739) [Wrn] [Publisher.cc:141] Queue limit reached for topic /gazebo/default/iris_stereo_gray_gps/imu, deleting message. This warning is printed only once.
+(1609831251 150249396) [Wrn] [Publisher.cc:141] Queue limit reached for topic /gazebo/default/iris_stereo_gray_gps/gazebo/command/motor_speed, deleting message. This warning is printed only once.
